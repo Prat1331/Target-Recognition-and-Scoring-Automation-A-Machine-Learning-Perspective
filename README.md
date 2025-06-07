@@ -77,14 +77,6 @@ Expand to support different target card formats
 
 Improve detection under variable lighting and occlusion
 
-📚 Citation
-If you use this work, please cite:
-
-Girija R., Kaur M., Singh M., Gera P., Panker S., Yaduvanshi M.
-Target Recognition and Scoring Automation: A Machine Learning Perspective, 2025
-
-📎 References
-Refer to the full list of citations in the docs/references.md file or the research paper attached.
 
 👤 Contributors
 Pratham Gera
