@@ -1,0 +1,2 @@
+# Target-Recognition-and-Scoring-Automation-A-Machine-Learning-Perspective
+Developing a deep learning-based solution to automate the scoring process in shooting sports by detecting bullet holes and calculating scores from scanned shooting target cards. The traditional manual scoring process is error-prone and time-consuming, so we implemented an object detection model to enhance scoring accuracy and efficiency.
